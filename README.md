@@ -20,7 +20,7 @@ A step by step series of points that tell you how to get a development env runni
 
  **Visual Studio**
 
-* Open Visual Studio, Click on View Tab on the top, go to the *Team Explorer* in the list.
+* Open Visual Studio, Click on *View* Tab on the top, go to the *Team Explorer* in the list.
 * Click on the top (Green plugin button) *Manage Connections*.
 * Expand *Manage connections* link and open *Connect to a Project*.
 * Sign in with your credentials in the *Showing hosted repositories for* dropdown.
