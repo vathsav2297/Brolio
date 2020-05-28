@@ -31,8 +31,8 @@ A step by step series of points that tell you how to get a development env runni
 **Mysql Workbench**
 
  * It is necessary that the data project needs a connection string to a mysql server with a user that has rights to create databases
- * Create a local database and add or update the connection string details in ~\Data\Db.Data\appsettings.json and also in ~\Src\Mvc\Web.config.
- * Then reload the ~\Data\Db.Data, right click on the file, select Debug and run it by click start new instance.
+ * Create a local database and add or update the connection string details in *~\Data\Db.Data\appsettings.json* and also in *~\Src\Mvc\Web.config*.
+ * Then reload the *~\Data\Db.Data*, right click on the file, select *Debug* and run it by click *start new instance*.
  * All the database will be set and ready to use.
  
  ## Deployment
