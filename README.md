@@ -34,6 +34,16 @@ A step by step series of examples that tell you how to get a development env run
  * Create a local database and add or update the connection string details in ~\Data\Db.Data\appsettings.json and also in ~\Src\Mvc\Web.config.
  * Then reload the ~\Data\Db.Data, right click on the file, select Debug and run it by click start new instance.
  * All the database will be set and ready to use.
+ 
+ ## Deployment
+
+Notes about how to deploy this on a live system.
+
+* Once the changes are done, go the the *Changes* tab in *Team Explorer* Stage your changes.
+* Add Comments and Click on *Commit*, you can see the commited changes in *Sync* tab.
+* Pull the *Incoming Commits* and then push the *Outgoing Commits* 
+* The changes will be then deployed to the targeted server.
+
 
 
 
