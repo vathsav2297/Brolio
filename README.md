@@ -8,7 +8,7 @@ These instructions will get you the project up and running on your local machine
 
 ### Prerequisites
 
-What things you need to install the software
+Things you need to install the software
 
 ```
  Visual Studio for working on Code.
